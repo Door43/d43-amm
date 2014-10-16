@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[amm:home|Door43 (amm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-amm|d43-amm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-amm/archive/master.zip|d43-amm.zip]]
+
+**Recent Changes**
+{{changes>ns = amm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/amm|Ethnologue data]]
+
